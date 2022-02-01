@@ -12,3 +12,7 @@ En este repositorio estaran subidos cada proyecto que se realizara en el Curso d
 - Parametros
 - Variables
 - Invocar funcion
+- Metodo
+- Indices
+- Built-in 
+- Slices
