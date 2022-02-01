@@ -1,2 +1,2 @@
-# Conversor de QTM a USD
-Este conversor es el proyecto realizado en el Curso de Programación en Python.
+# Curso Básico de Python
+En este repositorio estaran subidos cada proyecto que se realizara en el Curso de Programación Básica de Python de Platzi
