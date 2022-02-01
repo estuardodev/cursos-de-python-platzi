@@ -10,3 +10,5 @@ En este repositorio estaran subidos cada proyecto que se realizara en el Curso d
 
 ## Conceptos: 
 - Parametros
+- Variables
+- Invocar funcion

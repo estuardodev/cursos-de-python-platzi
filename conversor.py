@@ -1,3 +1,13 @@
+def conversor(tipo_pesos, valor_dolar):
+    quetzales = input("¿Cuantos Pesos "+tipo_pesos+" tienes?: ")
+    quetzales = float(quetzales)
+
+    dolares = quetzales / valor_dolar
+    dolares = round(dolares, 2)
+    dolares = str(dolares)
+    print("Tienes  $" + dolares + " dolares" )
+
+
 menu = """
 Bienvenido al conversor de monedas <3
 
@@ -10,28 +20,10 @@ Elige una opción:
 opcion = int(input(menu))
 
 if opcion == 1:
-    quetzales = input("¿Cuantos Pesos Colombianos tienes?: ")
-    quetzales = float(quetzales)
-    valor_dolar = 3943.02
-    dolares = quetzales / valor_dolar
-    dolares = round(dolares, 2)
-    dolares = str(dolares)
-    print("Tienes  $" + dolares + " dolares" )
+    conversor("colombiano", 3943.02)
 elif opcion == 2:
-    quetzales = input("¿Cuantos Pesos Argentinos tienes?: ")
-    quetzales = float(quetzales)
-    valor_dolar = 105.19
-    dolares = quetzales / valor_dolar
-    dolares = round(dolares, 2)
-    dolares = str(dolares)
-    print("Tienes  $" + dolares + " dolares" )
+    conversor("argentinos", 105.19)
 elif opcion == 3:
-    quetzales = input("¿Cuantos quetzales tienes?: ")
-    quetzales = float(quetzales)
-    valor_dolar = 7.77
-    dolares = quetzales / valor_dolar
-    dolares = round(dolares, 2)
-    dolares = str(dolares)
-    print("Tienes  $" + dolares + " dolares" )
+    conversor("quetzales", 7.87)
 else:
     print("Ingresa una opción correcta.")
