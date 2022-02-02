@@ -7,6 +7,7 @@ En este repositorio estaran subidos cada proyecto que se realizara en el Curso d
 - Comentarios
 - Condicionales
 - Funciones
+- Bucles
 
 ## Conceptos: 
 - Parametros
@@ -16,3 +17,4 @@ En este repositorio estaran subidos cada proyecto que se realizara en el Curso d
 - Indices
 - Built-in 
 - Slices
+- Constantes
