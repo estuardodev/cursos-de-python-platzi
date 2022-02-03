@@ -7,7 +7,8 @@ En este repositorio estaran subidos cada proyecto que se realizara en el Curso d
 - Comentarios
 - Condicionales
 - Funciones
-- Bucles
+- Bucles while
+- Bucles y ciclos for
 
 ## Conceptos: 
 - Parametros
