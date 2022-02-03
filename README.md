@@ -19,3 +19,5 @@ En este repositorio estaran subidos cada proyecto que se realizara en el Curso d
 - Built-in 
 - Slices
 - Constantes
+- Recorrer
+- Break y continue
