@@ -24,3 +24,4 @@ En este repositorio estaran subidos cada proyecto que se realizara en el Curso d
 - Modulo de python
 - Inmutables
 - Mutables
+- llaves y valores
